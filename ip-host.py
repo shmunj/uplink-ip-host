@@ -1,7 +1,6 @@
 #!/usr/bin/python
 import os,socket,pygame,sys,eztext
 from pygame import *
-#os.chdir('/home/shmunj/bin/ip-host/')
 
 def check_address(address):
     try:
