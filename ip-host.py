@@ -33,7 +33,7 @@ txtbx.set_font(font)
 
 clock = pygame.time.Clock()
 
-while 1:
+while True:
     mx,my = pygame.mouse.get_pos()
 
     events = pygame.event.get()
